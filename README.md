@@ -26,7 +26,3 @@ I'm a passionate Front-End Developer who loves working with modern web technolog
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-00F0F0?style=flat&logo=framer&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
-### 📈 GitHub Stats:
-
-![Sameh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamRizk194&show_icons=true&count_private=true&hide_title=true&hide=prs)
