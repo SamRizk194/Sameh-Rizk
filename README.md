@@ -2,13 +2,20 @@
 
 Sameh Rizk | 💻 Front-End Developer | Damietta, Egypt
 
+
+
 💻 **About Me:**
 
 Welcome to my GitHub profile!  
 I'm a passionate Front-End Developer who loves working with modern web technologies. Feel free to explore my repositories and see the projects I'm working on.
 
-🔗 **My Portfolio:**  
+
+
+**My Portfolio:**  
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=portfolio&logoColor=white)](https://sameh-rizk.netlify.app/)
+
+
 
 ### Technologies & Tools I use:
 
